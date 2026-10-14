@@ -1,0 +1,33 @@
+{
+  "org": "e7e7e7e7-0000-4000-8000-000000000001",
+  "users": {
+    "owner": "dono@demo.exemplo",
+    "manager": "gestor@demo.exemplo",
+    "operator": "operador@demo.exemplo",
+    "viewer": "consulta@demo.exemplo",
+    "operatorLoja": "operador.loja@demo.exemplo"
+  },
+  "password": "DemoLocal#2026",
+  "warehouses": [
+    "LOJA",
+    "CD",
+    "APOIO"
+  ],
+  "suppliers": [
+    "Tecnoimport Distribuidora",
+    "Papelaria Atacadão",
+    "Limpa Mais Produtos",
+    "Ferramentas Brasil",
+    "Insumos do Sul"
+  ],
+  "idleSkus": [
+    "LMP-005",
+    "FER-006",
+    "PER-006"
+  ],
+  "checksum": "f5f5f3deed04225a",
+  "counts": {
+    "operations": 248,
+    "products": 40
+  }
+}
